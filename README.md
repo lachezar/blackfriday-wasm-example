@@ -1,3 +1,11 @@
+# Run
+
+1. Install Go 1.11 beta
+2. `make`
+3. `npm i`
+4. `npm start`
+5. open [http://localhost:5000/](http://localhost:5000/)
+
 # Simple web app built in Golang using WebAssembly
 
 > Free open-source tutorial on creating a basic web app using golang library Blackfriday and WebAssembly as compilation target
